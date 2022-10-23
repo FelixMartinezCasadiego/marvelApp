@@ -16,7 +16,7 @@ You must `yarn start` to start the App; you must login with the authorized email
 
 ### List of characters
 
-![](img/charactersList.png.png)
+![](img/charactersList.png)
 
 ### Character Details
 
